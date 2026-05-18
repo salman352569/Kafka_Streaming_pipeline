@@ -1,0 +1,30 @@
+# Virtual Environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Spark & Streaming Output
+checkpoint/
+data/
+silver_output/
+gold_output/
+
+# Logs
+logs/
+*.log
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Temporary files
+tmp/

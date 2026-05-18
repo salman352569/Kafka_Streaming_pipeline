@@ -1,0 +1,25 @@
+# Core Data Processing
+pyspark==3.5.0
+delta-spark==3.2.0
+
+# Kafka
+confluent-kafka==2.3.0
+kafka-python==2.0.2
+
+# Dashboard
+streamlit==1.35.0
+plotly==5.22.0
+
+# Data Handling
+pandas==2.2.2
+numpy==1.26.4
+pyarrow==16.1.0
+
+# Fake Healthcare Data Generation
+faker==25.2.0
+
+# Logging and Utilities
+python-dotenv==1.0.1
+
+# Optional Visualization
+matplotlib==3.9.0
