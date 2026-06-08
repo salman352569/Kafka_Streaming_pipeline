@@ -1,6 +1,6 @@
 # 🏥 Healthcare Real-Time Streaming Pipeline
 
-An end-to-end **Real-Time Data Engineering Project** built using **Apache Kafka, Apache Spark Structured Streaming, Docker, Python, and Streamlit** following the **Medallion Architecture (Bronze → Silver → Gold)**.
+An end-to-end **Real-Time Data Engineering Project** built using Local Kafka setup, Apache Spark Structured Streaming, Docker, Python, and Streamlit** following the **Medallion Architecture (Bronze → Silver → Gold)**.
 
 The pipeline simulates healthcare patient records, streams them through Kafka topics, processes and cleans data using Spark Structured Streaming, generates business-ready healthcare KPIs, and visualizes insights through an interactive Streamlit dashboard.
 
